@@ -1,1 +1,1 @@
-# PharmacoNER
+# PharmaCoNER
